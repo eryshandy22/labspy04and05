@@ -116,6 +116,11 @@ for item in nilai:
 print("==================================================================")
 ```
 
+## Flowchartnya 
+<img width="408" alt="flowchart 4" src="https://user-images.githubusercontent.com/73053784/100194684-b8c44580-2f28-11eb-85c2-8195000946e1.png">
+
+
+
 ## Berikut Hasil Program Data Mahasiswa
 <img width="889" alt="jawabn praktikum 4" src="https://user-images.githubusercontent.com/73053784/100192351-5ff2ae00-2f24-11eb-8e4e-7fb132de379b.png">
 
@@ -404,6 +409,9 @@ while True:
 
 ## Hasil Output Praktikum 5
 <img width="890" alt="jawaban praktikum 5" src="https://user-images.githubusercontent.com/73053784/100194032-88c87280-2f27-11eb-8f56-feecca48e468.png">
+
+
+
 
 # Made By Ery Shandy
 
